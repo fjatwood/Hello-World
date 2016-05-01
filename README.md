@@ -1,2 +1,2 @@
 # Hello-World
-Indroduction - Student of coding
+Indroduction - Student of coding at Ivy Tech Community College
